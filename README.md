@@ -1,2 +1,2 @@
 # springboot-security-splunk
-This project has integration with Springboot , Loh4J, Security and Splunk
+This project has integration with Springboot , Log4J, Security and Splunk
